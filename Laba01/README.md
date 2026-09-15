@@ -15,5 +15,5 @@
 
 ## Запуск
 ```bash
-go run ./Laba01.go
+go run ./Laba01.gp
 ```
